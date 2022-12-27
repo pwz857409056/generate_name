@@ -1,18 +1,19 @@
 {
-    "name": "pwz/generate_name",
-    "description": "This is the package used to generate user nicknames",
-    "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Pwz\\GenerateName\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Mr蒲",
-            "email": "857409056@qq.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "pwz/generate_name",
+  "description": "This is the package used to generate user nicknames",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Pwz\\GenerateName\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mr蒲",
+      "email": "857409056@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
 }
