@@ -7,7 +7,13 @@
       "Pwz\\GenerateName\\": "src/"
     }
   },
-  "license": "MIT",
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Pwz\\GenerateName\\GenerateNameServiceProvider"
+      ]
+    }
+  },
   "authors": [
     {
       "name": "Mr蒲",
